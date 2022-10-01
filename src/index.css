@@ -8,9 +8,11 @@
   --heading-color:#fffffe;
   --Paragraph-color:#abd1c6;
   --button-color:#f9bc60;
-  --button-color:#001e1d;
+  --color:#001e1d;
 }
 body {
   margin: 0;
+  background-color: var(--main-bg-color);
 }
+
 
