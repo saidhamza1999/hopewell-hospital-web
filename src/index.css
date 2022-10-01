@@ -1,13 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+:root {
+  --primary-font:'Raleway', sans-serif;
+  --secondary-font: 'Rubik', sans-serif;
+  --main-bg-color: #004643;
+  --heading-color:#fffffe;
+  --Paragraph-color:#abd1c6;
+  --button-color:#f9bc60;
+  --button-color:#001e1d;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
